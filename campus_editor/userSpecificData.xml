@@ -1,0 +1,11 @@
+<UserFriendly>
+ <ObjectLayers>
+  <Layer Name="gp_comments" GUID="{B361276F-4DBF-4E04-A787-4811A0A35139}" Hidden="0" Frozen="0"/>
+  <Layer Name="Main" GUID="{5F7AA176-4991-4E8A-AB35-59039B84F079}" Hidden="0" Frozen="0"/>
+  <Layer Name="jh_mp" GUID="{012D5779-A775-47E9-9650-017E77CA7065}" Hidden="0" Frozen="0"/>
+  <Layer Name="jh_terrain" GUID="{86861E94-CC41-4F61-AD09-6300E99A1E77}" Hidden="0" Frozen="0"/>
+  <Layer Name="gp_buildings" GUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Hidden="0" Frozen="0"/>
+  <Layer Name="jh_objects" GUID="{EAD118C9-5D08-4A43-AC0E-1B85308371BB}" Hidden="0" Frozen="0"/>
+  <Layer Name="jh_ai" GUID="{8136B0EC-D186-40FF-B6DD-B16A6255C8D2}" Hidden="0" Frozen="0"/>
+ </ObjectLayers>
+</UserFriendly>

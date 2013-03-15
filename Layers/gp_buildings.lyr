@@ -1,0 +1,422 @@
+<ObjectLayer>
+ <Layer Name="gp_buildings" GUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" FullName="gp_buildings" External="1" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="0" IsDefaultColor="1">
+  <LayerObjects>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{76A46F03-BAA5-42BD-8DB7-ED3E754C4F20}" Name="GeomEntity_81" Pos="263,257,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m1.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{46DD951F-9E02-4C77-96B9-A1DC569441A8}" Name="GeomEntity_88" Pos="262,257,-20" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m16.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{5E1A8A25-74F0-4EDA-9613-53F0B869E2BC}" Name="GeomEntity_101" Pos="256.48138,257.59155,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m28.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{6CB54630-425F-478A-965C-447B95032433}" Name="GeomEntity_132" Pos="24.1082,44.501747,-1" FloorNumber="-1" Rotate="0.99446511,0.085094504,0.047210112,0.039614119" Scale="11.979231,11.97923,11.979229" ColorRGB="65535" Material="Materials/concrete/floor_concrete_01" MatLayersMask="0" Geometry="objects/gp_buildings/archsection.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{A29CBE32-41D1-4978-AB0C-2A88CA8CE751}" Name="GeomEntity_98" Pos="262,257,-22" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m25.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{598B1C34-E60D-41C2-AF67-086C08CA4D1B}" Name="GeomEntity_87" Pos="262,257,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m15.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{2F70C136-9AA7-409D-8B38-BD044D9EC578}" Name="GeomEntity_105" Pos="262,256,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m31.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{40BA7B38-A6AA-4790-A979-9130DDB6F9D4}" Name="GeomEntity_96" Pos="256.44522,260.36926,-22" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m23.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{215C8C3B-E0FE-44F5-8AFB-0E7AE385AEE2}" Name="GeomEntity_106" Pos="263,257,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m32.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{32825543-68DC-4F71-91A6-B3B577A27C6D}" Name="GeomEntity_100" Pos="260.42828,256.72375,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m27.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{CE59DB43-9514-46D9-8EA0-1697AAF145B7}" Name="GeomEntity_110" Pos="266.71674,258,-19.516439" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m36.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{CA2EE343-CA85-4F4F-8154-AC13C0B0D54E}" Name="GeomEntity_118" Pos="263,258,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m9.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{FD1EB04C-D9EA-433E-B83F-F448F83FA3CC}" Name="GeomEntity_92" Pos="263,257,-22" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m2.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{571C8C4F-0EBD-494B-B909-4E5548084511}" Name="GeomEntity_90" Pos="263,257,-20" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m18.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{654F5D51-D8F7-415D-97C6-967E7C27E4ED}" Name="GeomEntity_109" Pos="262,257,-29" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m35.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{AA6C1D57-370A-4181-92EF-F203666A59A3}" Name="GeomEntity_83" Pos="262,257,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m11.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{8D815F5A-B0E2-4123-91F5-E39411D029EA}" Name="GeomEntity_82" Pos="263,257,-31" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m10.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{076CF15B-596D-464A-AA09-ED21FDE0E785}" Name="GeomEntity_117" Pos="263,257,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m8.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{4C9B7D5F-8261-48E8-BB26-AA68FC562045}" Name="GeomEntity_124" Pos="-31.475071,66.293015,-1" FloorNumber="-1" Rotate="1,0,0,0" Scale="11.97923,11.97923,11.97923" ColorRGB="65535" Material="Materials/concrete/floor_concrete_01" MatLayersMask="0" Geometry="objects/gp_buildings/archsection.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{8943E46C-92ED-4C6B-BB9B-A05E8DEDC5EE}" Name="GeomEntity_128" Pos="-57.163143,75.419662,-2.6252937" FloorNumber="-1" Rotate="1,0,0,0" Scale="11.97923,11.97923,11.97923" ColorRGB="65535" Material="Materials/concrete/floor_concrete_01" MatLayersMask="0" Geometry="objects/gp_buildings/archsection.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{80296476-7BD1-4B46-B31F-E76E37C939C8}" Name="GeomEntity_102" Pos="265.62576,257,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m29.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{5C856377-62B1-46BB-B235-6A90FB21292B}" Name="GeomEntity_103" Pos="263,257,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m3.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{7ADB8B7C-B0BE-41C6-8DBF-1D1676F499C7}" Name="GeomEntity_97" Pos="263,257,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m24.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{F352097D-8C2B-4313-BF08-7ACAB7F2992C}" Name="GeomEntity_95" Pos="262,257,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m22.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{B9296F84-AD9C-4526-A4A5-A441DB611B13}" Name="GeomEntity_112" Pos="263,257,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m38.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{EFA8D786-0F50-4EC4-BC8A-75F863DC1918}" Name="GeomEntity_123" Pos="17.277908,52.547535,-1.8646011" FloorNumber="-1" Rotate="0.99984771,-0.017452406,0,0" Scale="11.97923,11.97923,11.97923" ColorRGB="65535" Material="Materials/concrete/floor_concrete_01" MatLayersMask="0" Geometry="objects/gp_buildings/archsection.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{8C88BC87-2911-4C9D-9D03-472620773F85}" Name="GeomEntity_131" Pos="-38.376396,68.365555,-1" FloorNumber="-1" Rotate="1,0,0,0" Scale="11.97923,11.97923,11.97923" ColorRGB="65535" Material="Materials/concrete/floor_concrete_01" MatLayersMask="0" Geometry="objects/gp_buildings/archsection.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{BF60858A-FAAE-47CE-8954-60A850CDC48A}" Name="GeomEntity_129" Pos="-52.830559,74.944702,-1.3808746" FloorNumber="-1" Rotate="0.99965733,0,0,-0.026176948" Scale="11.97923,11.97923,11.97923" ColorRGB="65535" Material="Materials/concrete/floor_concrete_01" MatLayersMask="0" Geometry="objects/gp_buildings/archsection.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{33C9898A-0E9C-4C79-939D-7A04423BD3DE}" Name="GeomEntity_121" Pos="-4.0047493,58.14679,-1" FloorNumber="-1" Rotate="1,0,0,0" Scale="11.97923,11.97923,11.97923" ColorRGB="65535" Material="Materials/concrete/floor_concrete_01" MatLayersMask="0" Geometry="objects/gp_buildings/archsection.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{7132988A-2430-4EBA-BF50-54C4303ED513}" Name="GeomEntity_111" Pos="263,257,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m37.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{31A84391-4590-4461-9EE3-3434E7FD2DF3}" Name="GeomEntity_115" Pos="262,258,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m6.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{6DED1F99-1556-4673-B31E-032065988F07}" Name="GeomEntity_89" Pos="265.79059,271.77917,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m17.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{2120D09A-609B-4201-823A-7979AB79254F}" Name="GeomEntity_93" Pos="263,257,-20" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m20.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{211B1C9D-7481-4E7A-925B-FD077654AD11}" Name="GeomEntity_122" Pos="10.06773,53.961849,-1" FloorNumber="-1" Rotate="1,0,0,0" Scale="11.97923,11.97923,11.97923" ColorRGB="65535" Material="Materials/concrete/floor_concrete_01" MatLayersMask="0" Geometry="objects/gp_buildings/archsection.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{0DEEB5A7-259F-4084-93E9-183DA7FBA749}" Name="GeomEntity_130" Pos="-44.639004,70.341774,-1" FloorNumber="-1" Rotate="1,0,0,0" Scale="11.97923,11.97923,11.97923" ColorRGB="65535" Material="Materials/concrete/floor_concrete_01" MatLayersMask="0" Geometry="objects/gp_buildings/archsection.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{803C7FAA-4ADE-435E-9321-62B5E0403B95}" Name="GeomEntity_84" Pos="256.99014,261.68515,-18.281693" FloorNumber="-1" Rotate="1,0,0,0" Scale="8.4235678,8.4235678,8.4235678" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m12.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{AD5B9CAF-5D32-4E67-91B5-80B9D2EF03FD}" Name="GeomEntity_94" Pos="263,257,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m21.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{21A449B3-2743-41EC-AD28-6289D6A6C23C}" Name="GeomEntity_86" Pos="262,257,-20" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m14.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{C399BDB4-FB1C-4F4F-AD0C-651D3FD59F0E}" Name="GeomEntity_108" Pos="273.53854,257.98367,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m34.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{E62050BA-8F8C-4216-B33D-B13AC99B5154}" Name="GeomEntity_107" Pos="263,257,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m33.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{84EE67BA-D0F6-423D-A05D-E1DC6459DD34}" Name="GeomEntity_125" Pos="-24.582039,64.232506,-1" FloorNumber="-1" Rotate="1,0,0,0" Scale="11.97923,11.97923,11.97923" ColorRGB="65535" Material="Materials/concrete/floor_concrete_01" MatLayersMask="0" Geometry="objects/gp_buildings/archsection.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{9391E6BF-EF87-4BAF-9A48-C1E197567423}" Name="GeomEntity_85" Pos="256.99014,261.68515,-18.281693" FloorNumber="-1" Rotate="1,0,0,0" Scale="8.4235678,8.4235678,8.4235678" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m13.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{F61F20CA-1E49-4550-AFB2-26E2FCEABE53}" Name="GeomEntity_133" Pos="154.5399,55.475662,-1.2149487" FloorNumber="-1" Rotate="0.74017686,0.50721723,-0.12208346,-0.42422232" Scale="4.0326552,4.0326548,4.0326533" ColorRGB="65535" Material="Materials/concrete/concrete_wall_02" MatLayersMask="0" Geometry="objects/gp_buildings/nancyastor.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{F2E4D7D2-D96E-4601-95B9-37412A9A782F}" Name="GeomEntity_120" Pos="2.8833618,56.023819,-1" FloorNumber="-1" Rotate="1,0,0,0" Scale="11.97923,11.97923,11.97923" ColorRGB="65535" Material="Materials/concrete/floor_concrete_01" MatLayersMask="0" Geometry="objects/gp_buildings/archsection.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{DF9550D6-36CF-4B16-B3D9-8EF868A4DDC1}" Name="GeomEntity_113" Pos="263,257,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m5.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{9FC8D7E1-60FB-42B5-95FA-DEB85DDA9388}" Name="GeomEntity_126" Pos="-17.590389,62.179245,-1" FloorNumber="-1" Rotate="1,0,0,0" Scale="11.97923,11.97923,11.97923" ColorRGB="65535" Material="Materials/concrete/floor_concrete_01" MatLayersMask="0" Geometry="objects/gp_buildings/archsection.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{0C5A88E4-9B59-457B-BA98-4372A5E70065}" Name="GeomEntity_119" Pos="306,395,11" FloorNumber="-1" Rotate="0.99144489,0,0,-0.13052619" Scale="5.1004996,5.1004996,5.1004996" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/scottbuilding.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{D66F95E8-3311-465B-B77E-1D576AF565D5}" Name="GeomEntity_91" Pos="263,257,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m19.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{9AB2ACEE-DC15-4500-8ED9-E03F3ECA1259}" Name="GeomEntity_116" Pos="263,257,-21" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m7.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{D3A2D2F3-2F19-4A30-BC6D-239DFA2D4021}" Name="GeomEntity_127" Pos="-10.795181,60.203041,-1" FloorNumber="-1" Rotate="1,0,0,0" Scale="11.97923,11.97923,11.97923" ColorRGB="65535" Material="Materials/concrete/floor_concrete_01" MatLayersMask="0" Geometry="objects/gp_buildings/archsection.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{4EE60CF6-129E-4BA0-9CCA-85387837E217}" Name="GeomEntity_114" Pos="263.77985,270.87158,-22.302431" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.6209822,9.6209822,9.6209822" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m4.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+   <Object Type="GeomEntity" Layer="gp_buildings" LayerGUID="{04FB7DBC-A25F-4DBE-A067-AD13A7D9E4FA}" Id="{B34EC3F9-440D-42D4-AF2D-EDEDF24AC2D3}" Name="GeomEntity_104" Pos="263,257,-21.29705" FloorNumber="-1" Rotate="1,0,0,0" Scale="9.0576,9.0576,9.0576" ColorRGB="65535" Material="Materials/concrete/floor_concrete_train_platform" MatLayersMask="0" Geometry="objects/gp_buildings/m30.cgf" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GeomEntity">
+    <Properties esFaction="">
+     <Health bInvulnerable="1" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <Interest soaction_Action="" bInteresting="0" InterestLevel="1" Pause="15" Radius="20" bShared="0">
+      <vOffset x="0" y="0" z="0"/>
+     </Interest>
+    </Properties>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

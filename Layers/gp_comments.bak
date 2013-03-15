@@ -1,0 +1,12 @@
+<ObjectLayer>
+ <Layer Name="gp_comments" GUID="{B361276F-4DBF-4E04-A787-4811A0A35139}" FullName="gp_comments" External="1" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="0" IsDefaultColor="1">
+  <LayerObjects>
+   <Object Type="Comment" Layer="gp_comments" LayerGUID="{B361276F-4DBF-4E04-A787-4811A0A35139}" Id="{E564BC2D-5709-4FC3-8959-C09F754F62CA}" Name="Comment_03" Pos="386.31589,138.71744,3.4153543" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="41215" Comment="Corner of top lane" Fixed="0"/>
+   <Object Type="Comment" Layer="gp_comments" LayerGUID="{B361276F-4DBF-4E04-A787-4811A0A35139}" Id="{9D6D322F-8E71-43EB-9275-F05CAEFF4912}" Name="Comment_04" Pos="270.74518,342.99933,3.7751808" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="41215" Comment="mid lane goes here" Fixed="0"/>
+   <Object Type="Comment" Layer="gp_comments" LayerGUID="{B361276F-4DBF-4E04-A787-4811A0A35139}" Id="{4083F046-B416-4303-81B4-A4DB8C58D021}" Name="Comment_02" Pos="439.57178,447.48474,0.6534729" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="41215" Comment="spawn (humans) (road coming in from elsewhere)" Fixed="0"/>
+   <Object Type="Comment" Layer="gp_comments" LayerGUID="{B361276F-4DBF-4E04-A787-4811A0A35139}" Id="{D04402E8-6DF3-4658-B0C1-EA1F5E598462}" Name="Comment_01" Pos="100.24208,46.691265,0.57465363" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="41215" Comment="Spawn (zombies) (rising from the spawning pool (reservoir))" Fixed="0"/>
+   <Object Type="Comment" Layer="gp_comments" LayerGUID="{B361276F-4DBF-4E04-A787-4811A0A35139}" Id="{F98666EE-A81E-4D0E-BD0F-CF8905F12C40}" Name="Comment_05" Pos="191.31218,171.83566,13.799864" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="41215" Comment="mid lane goes here too" Fixed="0"/>
+   <Object Type="Comment" Layer="gp_comments" LayerGUID="{B361276F-4DBF-4E04-A787-4811A0A35139}" Id="{C988BEF2-C502-464B-900D-3F8C1C9830E8}" Name="Comment_06" Pos="106.03955,413.50696,3.1882248" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="41215" Comment="corner of bot lane" Fixed="0"/>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

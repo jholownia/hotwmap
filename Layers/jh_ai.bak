@@ -1,0 +1,5 @@
+<ObjectLayer>
+ <Layer Name="jh_ai" GUID="{8136B0EC-D186-40FF-B6DD-B16A6255C8D2}" FullName="jh_ai" External="1" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="0" IsDefaultColor="1">
+  <LayerObjects />
+ </Layer>
+</ObjectLayer>

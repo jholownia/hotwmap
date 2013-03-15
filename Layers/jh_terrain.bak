@@ -1,0 +1,39 @@
+<ObjectLayer>
+ <Layer Name="jh_terrain" GUID="{86861E94-CC41-4F61-AD09-6300E99A1E77}" FullName="jh_terrain" External="1" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="1" IsDefaultColor="1">
+  <LayerObjects>
+   <Object Type="Road" Layer="jh_terrain" LayerGUID="{86861E94-CC41-4F61-AD09-6300E99A1E77}" Id="{F6DD3225-06E9-429C-BA0F-3D099E5B8923}" Name="Road_02" Pos="429.8718,429.83456,0.1" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" Material="Materials/terrain/roads/road_concrete_white_stripes" Width="6" BorderWidth="6" VegetationMaskWidth="0" StepSize="4" ViewDistRatio="100" TileLength="4" SortPriority="0" IgnoreTerrainHoles="0" AnchorType="">
+    <Points>
+     <Point Pos="0,0,0" Back="0,0,0" Forw="29.131857,29.411673,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="87.395569,88.235016,0" Back="58.263714,58.823345,0" Forw="87.395569,88.235016,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+    </Points>
+   </Object>
+   <Object Type="Road" Layer="jh_terrain" LayerGUID="{86861E94-CC41-4F61-AD09-6300E99A1E77}" Id="{CD61584C-8076-4FA8-B9DD-3D6A21FFD947}" Name="Road_06" Pos="323.22601,470.07571,0.1" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" Material="Materials/terrain/roads/road_concrete_worn" Width="6" BorderWidth="6" VegetationMaskWidth="0" StepSize="4" ViewDistRatio="100" TileLength="4" SortPriority="0" IgnoreTerrainHoles="0" AnchorType="">
+    <Points>
+     <Point Pos="0,0,0" Back="0,0,0" Forw="-24.197689,1.4099619,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-72.704254,1.3175964,0" Back="-48.51255,2.8267512,0" Forw="-89.148628,0.29174459,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-121.32791,-7.5688171,0" Back="-105.3755,-3.4468951,0" Forw="-134.2655,-10.911741,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-159.09656,-21.005188,0" Back="-146.10898,-17.86212,0" Forw="-171.035,-23.894358,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-195.66336,-25.558411,0" Back="-183.49371,-23.893034,0" Forw="-202.28929,-26.465149,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-215.47566,-28.72049,0" Back="-212.60181,-22.681776,0" Forw="-225.39934,-49.572685,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-229.46001,-96.573853,0" Back="-226.13213,-73.721748,0" Forw="-232.64473,-118.44295,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-234.97839,-162.6431,0" Back="-232.99194,-140.63278,0" Forw="-236.06143,-174.64334,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-238.66811,-198.60135,0" Back="-236.17075,-186.81398,0" Forw="-242.89374,-218.54601,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-255.07988,-257.52045,0" Back="-249.60928,-237.88075,0" Forw="-255.07988,-257.52045,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+    </Points>
+   </Object>
+   <Object Type="Road" Layer="jh_terrain" LayerGUID="{86861E94-CC41-4F61-AD09-6300E99A1E77}" Id="{B352DD55-0C06-40A1-9259-EE590444018D}" Name="Road_04" Pos="435.54724,365.8902,0.1" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" Material="Materials/terrain/roads/road_concrete_worn" Width="6" BorderWidth="6" VegetationMaskWidth="0" StepSize="4" ViewDistRatio="100" TileLength="4" SortPriority="0" IgnoreTerrainHoles="0" AnchorType="">
+    <Points>
+     <Point Pos="0,0,0" Back="0,0,0" Forw="-17.269114,-95.955574,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-60.717804,-286.11993,0" Back="-34.588303,-192.18939,0" Forw="-63.110134,-294.71991,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-83.505524,-300.18634,0" Back="-74.759995,-298.39795,0" Forw="-119.02505,-307.44983,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-191.52724,-312.86957,0" Back="-155.40555,-315.97095,0" Forw="-222.96037,-310.17075,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-281.4014,-283.19519,0" Back="-251.54597,-293.39224,0" Forw="-289.75043,-280.3436,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-306.1192,-273.73096,0" Back="-297.87994,-276.88571,0" Forw="-306.1192,-273.73096,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+    </Points>
+   </Object>
+   <Object Type="Entity" Layer="jh_terrain" LayerGUID="{86861E94-CC41-4F61-AD09-6300E99A1E77}" Id="{FBA4FAAB-FB22-4985-902E-33DA10623337}" Name="SpawnPoint_02" Pos="499.70013,346.19171,-767.79926" FloorNumber="-1" Rotate="0.93667221,0,0,0.35020739" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" LodRatio="100" ViewDistRatio="100" GlobalInSegmentedWorld="0" HiddenInGame="0" RecvWind="0" Bending="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="SpawnPoint">
+    <Properties bEnabled="1" teamName=""/>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>
